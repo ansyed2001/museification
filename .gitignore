@@ -1,0 +1,4 @@
+.DS_Store
+node_modules/
+# scraped grokification source + screen recordings: research only, not ours to publish
+reference/
